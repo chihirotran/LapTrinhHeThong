@@ -6,6 +6,7 @@ package clientsocket;
 
 import java.io.*;
 import java.net.*;
+import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -24,16 +25,35 @@ public class Clientsocket {
             System.out.println("Ket Noi Thanh Cong Den Server");
             PrintWriter out = new PrintWriter(new OutputStreamWriter(s.getOutputStream()));
             BufferedReader in = new BufferedReader(new InputStreamReader(s.getInputStream()));
-            String tin = "hello";
-            out.println(tin);
-            out.flush();
+            String tin = "";
+            String sl1 =in.readLine();
+            int sl = Integer.parseInt(sl1);
+            System.out.println(""+sl);
+            for (int i = 0; i < sl; i++) {
+                String nhanString;
+                nhanString = in.readLine();
+                System.out.println("<Server>:   " + nhanString);
+                String nhanString1;
+                nhanString1 = in.readLine();
+                System.out.println("<Server>:   " + nhanString1);
+                Scanner scanner = new Scanner(System.in);
+                tin = scanner.nextLine();
+                out.println(tin);
+                out.flush();
+                if (tin.equals("thoat") == false) {
+
+                } else {
+                    break;
+                }
+            }
             String nhanString;
             nhanString = in.readLine();
             System.out.println("<Server>:   " + nhanString);
-            out.close();
             in.close();
+            out.close();
             s.close();
-        } catch (Exception ex) {
+
+        } catch (IOException ex) {
             Logger.getLogger(Clientsocket.class.getName()).log(Level.SEVERE, null, ex);
         }
     }

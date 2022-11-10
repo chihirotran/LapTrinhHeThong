@@ -1,0 +1,8 @@
+D:\Study\LapTrinhHeThongGIT\C#\thread\thread\bin\Debug\thread.exe.config
+D:\Study\LapTrinhHeThongGIT\C#\thread\thread\bin\Debug\thread.exe
+D:\Study\LapTrinhHeThongGIT\C#\thread\thread\bin\Debug\thread.pdb
+D:\Study\LapTrinhHeThongGIT\C#\thread\thread\obj\Debug\thread.csproj.AssemblyReference.cache
+D:\Study\LapTrinhHeThongGIT\C#\thread\thread\obj\Debug\thread.csproj.SuggestedBindingRedirects.cache
+D:\Study\LapTrinhHeThongGIT\C#\thread\thread\obj\Debug\thread.csproj.CoreCompileInputs.cache
+D:\Study\LapTrinhHeThongGIT\C#\thread\thread\obj\Debug\thread.exe
+D:\Study\LapTrinhHeThongGIT\C#\thread\thread\obj\Debug\thread.pdb

@@ -1,0 +1,7 @@
+D:\Study\LapTrinhHeThongGIT\C#\Chatapp_Sever\Chatapp_Sever\bin\Debug\Chatapp_Sever.exe.config
+D:\Study\LapTrinhHeThongGIT\C#\Chatapp_Sever\Chatapp_Sever\bin\Debug\Chatapp_Sever.exe
+D:\Study\LapTrinhHeThongGIT\C#\Chatapp_Sever\Chatapp_Sever\bin\Debug\Chatapp_Sever.pdb
+D:\Study\LapTrinhHeThongGIT\C#\Chatapp_Sever\Chatapp_Sever\obj\Debug\Chatapp_Sever.csproj.AssemblyReference.cache
+D:\Study\LapTrinhHeThongGIT\C#\Chatapp_Sever\Chatapp_Sever\obj\Debug\Chatapp_Sever.csproj.CoreCompileInputs.cache
+D:\Study\LapTrinhHeThongGIT\C#\Chatapp_Sever\Chatapp_Sever\obj\Debug\Chatapp_Sever.exe
+D:\Study\LapTrinhHeThongGIT\C#\Chatapp_Sever\Chatapp_Sever\obj\Debug\Chatapp_Sever.pdb

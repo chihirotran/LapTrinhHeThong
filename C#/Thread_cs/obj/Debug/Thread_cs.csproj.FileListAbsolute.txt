@@ -1,0 +1,8 @@
+D:\Thread_cs\bin\Debug\Thread_cs.exe.config
+D:\Thread_cs\bin\Debug\Thread_cs.exe
+D:\Thread_cs\bin\Debug\Thread_cs.pdb
+D:\Thread_cs\obj\Debug\Thread_cs.csproj.AssemblyReference.cache
+D:\Thread_cs\obj\Debug\Thread_cs.csproj.SuggestedBindingRedirects.cache
+D:\Thread_cs\obj\Debug\Thread_cs.csproj.CoreCompileInputs.cache
+D:\Thread_cs\obj\Debug\Thread_cs.exe
+D:\Thread_cs\obj\Debug\Thread_cs.pdb

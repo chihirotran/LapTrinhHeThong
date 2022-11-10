@@ -9,7 +9,24 @@ namespace ConsoleApp1
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public static void /(object obj)
+        {
+            Params p = (Params)obj;
+            DateTime st = p.st;
+            for (int i = 0; i < m; i++)
+            {
+                for (int j = p.sr; j < p.er; j++)
+                {
+                    int sum = 0;
+                    for (int k = 0; k < m; k++)
+                    {
+                        sum = sum + a[i, k] * b[k, j];
+                    }
+                    c[i, j] = sum;
+                }
+            }
+
+            static void Main(string[] args)
         {
             try
             {

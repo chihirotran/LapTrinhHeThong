@@ -6,3 +6,7 @@ D:\Study\LapTrinhHeThongGIT\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csp
 D:\Study\LapTrinhHeThongGIT\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 D:\Study\LapTrinhHeThongGIT\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 D:\Study\LapTrinhHeThongGIT\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Study\LapTrinhHeThongGIT\C#\icpserver\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Study\LapTrinhHeThongGIT\C#\icpserver\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Study\LapTrinhHeThongGIT\C#\icpserver\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Study\LapTrinhHeThongGIT\C#\icpserver\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

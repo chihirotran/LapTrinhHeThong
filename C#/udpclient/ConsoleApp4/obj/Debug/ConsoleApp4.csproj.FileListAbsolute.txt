@@ -6,3 +6,11 @@ D:\Study\LapTrinhHeThongGIT\C#\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csp
 D:\Study\LapTrinhHeThongGIT\C#\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
 D:\Study\LapTrinhHeThongGIT\C#\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
 D:\Study\LapTrinhHeThongGIT\C#\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+D:\Study\LapTrinhHeThongGIT\C#\udpclient\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\Study\LapTrinhHeThongGIT\C#\udpclient\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\Study\LapTrinhHeThongGIT\C#\udpclient\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\Study\LapTrinhHeThongGIT\C#\udpclient\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+D:\Study\LapTrinhHeThongGIT\C#\udpclient\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.SuggestedBindingRedirects.cache
+D:\Study\LapTrinhHeThongGIT\C#\udpclient\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Study\LapTrinhHeThongGIT\C#\udpclient\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Study\LapTrinhHeThongGIT\C#\udpclient\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

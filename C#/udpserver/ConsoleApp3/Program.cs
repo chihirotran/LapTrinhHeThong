@@ -9,6 +9,18 @@ namespace ConsoleApp3
 {
     internal class Program
     {
+        static bool ktraSoHH(int a)
+        {
+            int sum = 0;
+            for (int i = 1; i <= a / 2; i++)
+            {
+                if (a % i == 0)
+                    //tổng các ước số của a
+                    sum += i;
+            }
+            if (sum == a) return true;
+            return false;
+        }
         static void Main(string[] args)
         {
             try
@@ -25,17 +37,24 @@ namespace ConsoleApp3
                     s_socket.ReceiveFrom(breceive, ref c_iep);
                     String receive = ASCIIEncoding.ASCII.GetString(breceive).TrimEnd('\0');
                     Console.WriteLine("<Client>: " + receive);
-                    if (receive.Equals("thoat") == true)
+                    int a = Convert.ToInt32(receive);
+                    byte[] bmess  = new byte[1024];
+                    if (ktraSoHH(a) == true)
                     {
-                        break;
+                        String send="la so hoan hao";
+                         bmess = ASCIIEncoding.ASCII.GetBytes(send);
+                        
                     }
-                    String send;
-                    send = Console.ReadLine();
-                    byte[] bmess = ASCIIEncoding.ASCII.GetBytes(send);
+                    else
+                    {
+                        String send = "Khong phai so hoan hao";
+                        bmess = ASCIIEncoding.ASCII.GetBytes(send);
+                    }
                     s_socket.SendTo(bmess, c_iep);
 
-                    
+
                 }
+                Console.ReadKey();
                 s_socket.Close();
             }
             catch (Exception ex) { Console.WriteLine("Loi: " + ex.Message); }

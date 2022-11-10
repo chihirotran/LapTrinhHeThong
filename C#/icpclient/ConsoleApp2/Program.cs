@@ -10,6 +10,7 @@ namespace ConsoleApp2
 {
     internal class Program
     {
+        
         static void Main(string[] args)
         {
             try
@@ -18,22 +19,21 @@ namespace ConsoleApp2
                 Socket c_socket = new Socket(SocketType.Stream, ProtocolType.Tcp);
                 c_socket.Connect(s_iep);
                 Console.WriteLine("ket noi thanh cong");
+                /*
                 while (true)
                 {
                     string send = Console.ReadLine();
                     byte[] mess = ASCIIEncoding.ASCII.GetBytes(send);
                     c_socket.Send(mess);
-                    string test = ASCIIEncoding.ASCII.GetString(mess).TrimEnd('/0');
+                     string test = ASCIIEncoding.ASCII.GetString(mess).TrimEnd('\0');
                     Console.WriteLine("*" + test + "*");
-                    if (send.Equals("thoat") == true)
-                    {
-                        break;
-                    }
+                    
                     byte[] breceive = new byte[1024];
                     c_socket.Receive(breceive);
                     String tinnhan = ASCIIEncoding.ASCII.GetString(breceive).Trim();
                     Console.WriteLine("<Server>: " + tinnhan.Trim());
-                }
+                }*/
+                Console.ReadKey();
                 c_socket.Close();
             }
             catch (Exception ex)

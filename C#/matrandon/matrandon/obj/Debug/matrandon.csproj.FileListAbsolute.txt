@@ -1,0 +1,8 @@
+D:\Study\LapTrinhHeThongGIT\C#\matrandon\matrandon\bin\Debug\matrandon.exe.config
+D:\Study\LapTrinhHeThongGIT\C#\matrandon\matrandon\bin\Debug\matrandon.exe
+D:\Study\LapTrinhHeThongGIT\C#\matrandon\matrandon\bin\Debug\matrandon.pdb
+D:\Study\LapTrinhHeThongGIT\C#\matrandon\matrandon\obj\Debug\matrandon.csproj.AssemblyReference.cache
+D:\Study\LapTrinhHeThongGIT\C#\matrandon\matrandon\obj\Debug\matrandon.csproj.SuggestedBindingRedirects.cache
+D:\Study\LapTrinhHeThongGIT\C#\matrandon\matrandon\obj\Debug\matrandon.csproj.CoreCompileInputs.cache
+D:\Study\LapTrinhHeThongGIT\C#\matrandon\matrandon\obj\Debug\matrandon.exe
+D:\Study\LapTrinhHeThongGIT\C#\matrandon\matrandon\obj\Debug\matrandon.pdb

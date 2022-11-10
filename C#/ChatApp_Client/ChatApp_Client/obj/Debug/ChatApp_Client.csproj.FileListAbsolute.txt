@@ -1,0 +1,6 @@
+D:\Study\LapTrinhHeThongGIT\C#\ChatApp_Client\ChatApp_Client\bin\Debug\ChatApp_Client.exe.config
+D:\Study\LapTrinhHeThongGIT\C#\ChatApp_Client\ChatApp_Client\bin\Debug\ChatApp_Client.exe
+D:\Study\LapTrinhHeThongGIT\C#\ChatApp_Client\ChatApp_Client\bin\Debug\ChatApp_Client.pdb
+D:\Study\LapTrinhHeThongGIT\C#\ChatApp_Client\ChatApp_Client\obj\Debug\ChatApp_Client.csproj.CoreCompileInputs.cache
+D:\Study\LapTrinhHeThongGIT\C#\ChatApp_Client\ChatApp_Client\obj\Debug\ChatApp_Client.exe
+D:\Study\LapTrinhHeThongGIT\C#\ChatApp_Client\ChatApp_Client\obj\Debug\ChatApp_Client.pdb
